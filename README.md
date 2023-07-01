@@ -1,8 +1,4 @@
-### Hi there 👋
-
-🔧Engineer in Industrial Electronics and Automation 
-
-📈 Data Scientist / Data Analyst 
+![banner](https://github.com/AlbaBoga/AlbaBoga/blob/main/banner.png)
 
 ### Programming Languages
 
