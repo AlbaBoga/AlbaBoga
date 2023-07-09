@@ -1,4 +1,4 @@
-![banner](https://github.com/AlbaBoga/AlbaBoga/blob/main/Secuencia04.gif)
+![banner](https://github.com/AlbaBoga/AlbaBoga/blob/main/graphic.gif)
 
 ### Programming Languages
 
